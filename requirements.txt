@@ -1,0 +1,6 @@
+flask
+pyjwt
+cryptography
+pytest
+pytest-cov
+flake8

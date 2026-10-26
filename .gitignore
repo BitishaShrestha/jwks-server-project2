@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+# holds private keys, created when the server starts
+*.db
